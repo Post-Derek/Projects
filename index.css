@@ -19,6 +19,7 @@ nav {
     justify-content: right; 
 }
 
+
 .upRightButton {
     position: absolute;
     height: 20px;
@@ -26,6 +27,8 @@ nav {
     border:solid 1px white;
     right: -130px;
 }
+
+
 
 .upRightButton {
     bottom: 15px;
@@ -35,7 +38,8 @@ nav {
     position: absolute;
     color: White;
     font-family: 'Oswald', sans-serif;
-    right: -108px;
+    font-weight: bold;
+    right: -103px;
 }
 
 #Kast{
@@ -46,6 +50,8 @@ nav {
   body{
     background-image: linear-gradient(to right, purple, blue);
   } 
+
+ 
   
   .intro {
     position: relative;
@@ -118,7 +124,7 @@ div.image-rows{
     height: 100px;
     margin: 1em auto;
     margin-top: -800px;
-    margin-left: 770px;
+    margin-left: 590px;
     position: relative;
 }
 
